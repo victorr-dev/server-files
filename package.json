@@ -1,0 +1,19 @@
+{
+  "name": "example-jwt",
+  "version": "1.0.0",
+  "description": "Example implementation JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorsr-dev/example-jwt.git"
+  },
+  "author": "Victor Sinuhe Ruiz Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorsr-dev/example-jwt/issues"
+  },
+  "homepage": "https://github.com/victorsr-dev/example-jwt#readme"
+}
